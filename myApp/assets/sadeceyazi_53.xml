@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <General>
+    <MachineType>53x70I</MachineType>
+    <Name>sadeceyazi_53.ronx</Name>
+    <Width>640</Width>
+    <Height>87</Height>
+  </General>
+  <Object>
+    <ObjectType>Text</ObjectType>
+    <Name>text1</Name>
+    <X>1</X>
+    <Y>2</Y>
+    <W>326</W>
+    <H>83</H>
+    <Rotate>0</Rotate>
+    <Hidden>False</Hidden>
+    <Content>
+      <Data>SAVEMA</Data>
+      <Source>Internal</Source>
+      <MagnificationRatio>100</MagnificationRatio>
+      <Inverted>False</Inverted>
+    </Content>
+    <Font>
+      <Name>Times New Roman</Name>
+      <Size>51</Size>
+      <Style>Bold</Style>
+    </Font>
+  </Object>
+</Template>

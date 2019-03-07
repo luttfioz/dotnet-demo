@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <General>
+    <MachineType>53x70I</MachineType>
+    <Name>sadece tarih_53.ronx</Name>
+    <Width>640</Width>
+    <Height>70</Height>
+  </General>
+  <Object>
+    <ObjectType>Date</ObjectType>
+    <Name>date1</Name>
+    <X>8</X>
+    <Y>2</Y>
+    <W>292</W>
+    <H>66</H>
+    <Rotate>0</Rotate>
+    <Hidden>False</Hidden>
+    <Content>
+      <Data>05 04 2020</Data>
+      <Format>dd MM yyyy</Format>
+      <Separator> </Separator>
+      <CountryCode>1033</CountryCode>
+      <DayOffset>1</DayOffset>
+      <MonthOffset>1</MonthOffset>
+      <YearOffset>1</YearOffset>
+      <Type>Actual</Type>
+      <UpperCase>False</UpperCase>
+      <UseSpecialMonthNames>False</UseSpecialMonthNames>
+      <SpecialMonthNames>
+      </SpecialMonthNames>
+    </Content>
+    <Font>
+      <Name>Arial</Name>
+      <Size>40</Size>
+      <Style>Bold</Style>
+    </Font>
+  </Object>
+</Template>
